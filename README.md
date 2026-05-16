@@ -1,5 +1,9 @@
 # OpenCLI
 
+
+
+
+
 > **Convert any website into a CLI & Drive your logged-in browser from AI agents.**
 > Turn websites, browser sessions, Electron apps, and local tools into deterministic interfaces for humans and AI agents.
 > Or drive your logged-in browser to do anything — navigate, fill forms, click, extract, automate.
